@@ -1,0 +1,64 @@
+body{
+                width: 310px;
+                margin: auto;
+            }
+            
+            .caixa_cadastro{
+                width: 345px;
+                margin-top: 20px;
+            }
+            
+            .campo{
+                background-size: 25px;
+                width: 325px;
+                border-radius: 3px;
+                padding: 8px;
+                margin-left: 2px;
+                margin-bottom: 3px;
+            }
+            
+            .gifLoader{
+                background: url(img/loader.gif) no-repeat 99%;
+                background-size: 25px;
+            }
+            
+            .imgCerto{
+                background: url(img/certo.png) no-repeat 99%;
+                background-size: 35px;
+            }
+            
+            .campoLogin{
+                width: 290px;
+                border-radius: 3px;
+                padding: 8px;
+                margin-left: 2px;
+                margin-bottom: 3px;
+            }
+            
+            .caixa_login{
+                width: 320px;
+                margin-bottom: 13px;
+            }
+            
+            .caixa-capche{
+                width: 302px;
+                height: 76px;
+                margin: auto;
+                border-radius: 3px;
+                box-shadow:1px 1px 5px black;
+                margin-top: 5px;
+                margin-left: 2px;
+            }
+            
+            .btnCadastrar{
+                width: 345px;
+                height: 40px;
+                font-weight: bold;
+                font-size: 15px;
+                margin-left: 2px;
+            }
+            
+            .alertCaptchar{
+                border:1px solid red; 
+                box-shadow:1px 1px 5px red;
+            }

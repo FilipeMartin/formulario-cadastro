@@ -1,0 +1,1 @@
+É um formulário de cadastro que utiliza requisições ajax e o reCaptcha do google. Quando algum dos campos do formulário perde o foco é executado validações e consultas ao banco de dados automaticamente.
